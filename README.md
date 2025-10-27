@@ -1,17 +1,57 @@
-# React + Vite
+# To_Do_List_of_WEB_Application
+# ✨ Advanced To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive To-Do List application built with **HTML5**, **Tailwind CSS**, and **JavaScript**.  
+This project demonstrates industry-relevant frontend practices such as DOM manipulation, data persistence with `localStorage`, responsive design, and clean code structuring.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+### ✅ Core Features
+- Add new tasks quickly
+- Mark tasks as complete/incomplete with visual indicators
+- Delete tasks without refreshing the page
+- Data persistence with **localStorage**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🎨 UI & Styling
+- Responsive design (mobile, tablet, desktop) using Tailwind CSS
+- Modern and accessible layout
+- Dark mode toggle 🌙
+- Distinct styling for completed, active, and priority tasks
 
-## Expanding the ESLint configuration
+### 🌟 Advanced Features
+- Inline task editing ✏️
+- Task categorization (Work, Personal, School)
+- Priority levels (Low, Medium, High) with color-coded tags
+- Search and filter functionality
+- Smooth animations and hover effects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# ToDoListApp
+---
+
+## 🛠️ Technologies Used
+- **HTML5** – Semantic structure
+- **Tailwind CSS** – Modern responsive styling
+- **JavaScript (ES6)** – Dynamic DOM manipulation
+- **localStorage** – Persistent task management
+
+---
+
+## 📷 Screenshots
+![Dashboard Screenshot]![alt text](image-1.png)
+
+---
+
+## 📂 Folder Structure
+```bash
+/to-do-app
+│── /assets
+│── index.html
+│── README.md
+
+## Clone the repository:
+
+git clone https://github.com/Boldecca/To_Do_List_of_WEB_Application.git
+
+## live link 
+
