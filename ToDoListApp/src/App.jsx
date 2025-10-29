@@ -1,11 +1,11 @@
 import './index.css';
 import './App.css';
-import TodoApp from "../components/TodoApp";
+import ToDoApp from "./components/ToDoApp";
 
 export default function App() {
   return (
     <div>
-      <TodoApp />
+      <ToDoApp />
     </div>
   );
 }
